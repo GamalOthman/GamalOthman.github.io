@@ -1,0 +1,53 @@
+{
+	"login":
+	{
+		"welcome": "Welcome!",
+		"username":"Phone Number",
+		"password": "Password",
+		"login": "Login"
+	},
+	
+	"app_bar": 
+	{
+		"employee_app" : "Employee App",
+		"driver_app": "Driver App",
+		"choose_shippment": "Choose Shippment",
+		"example_shippment": "Example Shippment for test",
+		"shippment_details": "Shippment Details",
+		"receipt_form": "Receipt Form"
+	},
+	"button": 
+	{
+		"attendance": "Attendance",
+		"departure":"Departure",
+		"requests":"Requests",
+		"reports":"Reports",
+		"settings": "Settings",
+		"cancel": "Cancel",
+		"language": "Language"
+	},
+	"language": 
+	{
+		"name": 
+		{
+			"en": "English",
+			"ar": "العربية"
+		},
+		"selected_message": "Currently selected language is {language}",
+		"selection": 
+		{
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	},
+	"plural": 
+	{
+		"demo": 
+		{
+			"zero": "Please start pushing the 'plus' button.",
+			"one": "You have pushed the button one time.",
+			"two": "You have pushed the button two times.",
+			"other": "You have pushed the button {{value}} times."
+		}
+	}
+}

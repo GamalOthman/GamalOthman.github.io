@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003165184079",
+    "project_id": "driverapp-96859",
+    "storage_bucket": "driverapp-96859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003165184079:android:58ab318dfa98c40f033a3a",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6-ldvgJBg-_Nj2wrXKjcIhOpANuYSnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003165184079:android:7bf53a6e73a368a8033a3a",
+        "android_client_info": {
+          "package_name": "com.example.driverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6-ldvgJBg-_Nj2wrXKjcIhOpANuYSnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

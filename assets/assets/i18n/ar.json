@@ -1,0 +1,51 @@
+{
+	"login":
+	{
+		"welcome": "مرحبا !",
+		"username":"رقم الهاتف",
+		"password": "كلمة المرور",
+		"login": "دخول"
+	},
+	"app_bar": 
+	{
+		"employee_app" : "تطبيق الموظف",
+		"driver_app": "تطبيق السائق",
+		"choose_shippment": "اختر الشحنة",
+		"shippment_details": "تفاصيل الشحنة",
+		"receipt_form": "بيانات الإيصال"
+	},
+	"button": 
+	{
+		"attendance":"حضور",
+		"departure":"إنصراف",
+   		"requests":"طلبات",
+   		"reports":"تقارير",
+		"settings": "الإعدادات",
+		"cancel": "إلغاء",
+		"language": "اللغة"
+	},
+	"language": 
+	{
+		"name": 
+		{
+			"en": "English",
+            "ar": "العربية"
+		},
+        "selected_message": "اللغة المختارة حالياً هي  {language}",
+		"selection": 
+		{
+			"message": "برجاء إختيار لغة من القائمة",
+			"title": "إختيار اللغة"
+		}
+	},
+	"plural": 
+	{
+		"demo": 
+		{
+			"zero": "برجاء البدء في الضغط على زر الإضافة",
+            "one": "لقد ضغطت الزر مرة",
+            "two": "لقد ضغطت الزر مرتين",
+			"other": "لقد ضغطت الزر {{value}} مرة"
+		}
+	}
+}
